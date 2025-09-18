@@ -10,8 +10,8 @@ local RS = game:GetService("RunService")
 
 -- Main Window
 local Window = Rayfield:CreateWindow({
-   Name = "Universal Hub",
-   LoadingTitle = "Universal Hub",
+   Name = "Alpha Studio",
+   LoadingTitle = "Alpha Studio",
    LoadingSubtitle = "ESP | Aimbot | Power",
    ConfigurationSaving = { Enabled = false }
 })
